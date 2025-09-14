@@ -57,12 +57,9 @@ Set up your Gemini API key in your script:
 
 ```python
 import google.generativeai as genai
-genai.configure(api_key="YOUR_API_KEY")
+genai.configure(api_key="AIzaSyCrffA_YtD8H8ak4nm4jfpUUkDLAkbixWs")
 ```
 
-Replace `YOUR_API_KEY` with your actual Gemini API key.
-
----
 
 ## Usage
 

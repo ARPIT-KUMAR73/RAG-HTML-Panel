@@ -30,7 +30,7 @@ The goal is to enable users to generate complete HTML layouts or get UI-related 
 ---
 
 ## Tech Stack
-- Google Generative AI (Gemini-1.5-Pro) – for content generation  
+- Google Generative AI (Gemini-2.5-Pro) – for content generation  
 - LangChain – document abstraction, embeddings, and vector store integration  
 - HuggingFace Sentence Transformers – embeddings model (`all-MiniLM-L6-v2`)  
 - FAISS (Facebook AI Similarity Search) – similarity search over embeddings  

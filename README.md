@@ -77,10 +77,3 @@ Example:
 The generated HTML is saved in `panel.html`.
 
 ---
-
-## Future Improvements
-- Replace rule-based intent classification with an ML-based model  
-- Add support for larger and dynamic component libraries  
-- Build a web-based frontend for more intuitive interaction  
-- Support additional vector stores like Pinecone or Weaviate  
-- Add evaluation metrics for measuring retrieval and generation quality
